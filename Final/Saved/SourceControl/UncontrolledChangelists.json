@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Game Center Student/Documents/Level Design/Midterm/Midterm_LevelDesign/Final/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/Midterm V3/Midterm-V3/Final/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/batni/Documents/NYU/Spring 2023/Level Design/Midterm V3 3.6.23/Midterm-V3/Final/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/batni/Documents/NYU/Spring 2023/Level Design/Midterm V3 3.6.23/Midterm-V3/Final/Content/StarterContent/Props/MaterialSphere.uasset",
 				"C:/Users/batni/Documents/NYU/Spring 2023/Level Design/Midterm V3 3.6.23/Midterm-V3/Final/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
@@ -186,7 +188,6 @@
 				"C:/Users/batni/Documents/NYU/Spring 2023/Level Design/Midterm_LevelDesign/Final/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/UQ/22M8HP7T39YD6BN7A1F3CW.uasset",
 				"C:/Users/batni/Documents/NYU/Spring 2023/Level Design/Midterm_LevelDesign/Final/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/XH/R3MFUCGTQGBWNUH8HQ369N.uasset",
 				"C:/Users/batni/Documents/NYU/Spring 2023/Level Design/Midterm_LevelDesign/Final/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/FE/SGA171TGBJR9T0EZPZN7BD.uasset",
-				"C:/Users/Game Center Student/Documents/Level Design/Midterm/Midterm_LevelDesign/Final/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/Game Center Student/Documents/Level Design/Midterm/Final/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Game Center Student/Documents/Level Design/Midterm/Final_LevelDesign/Final/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/Game Center Student/Documents/Level Design/Final/Final_LevelDesign/Final/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
