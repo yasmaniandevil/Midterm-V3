@@ -4583,6 +4583,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.09-18.34.35:016][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2023.03.09-18.34.35:024][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2023.03.09-18.34.35:084][924]LogPlayLevel: Display: Destroying online subsystem :Context_7
+<<<<<<< HEAD
 [2023.03.09-18.35.25:895][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
 [2023.03.09-18.35.25:899][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
 [2023.03.09-18.35.26:004][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
@@ -4633,3 +4634,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 >>>>>>> parent of e583460 (saves)
 =======
 >>>>>>> parent of e583460 (saves)
+=======
+>>>>>>> parent of 80cdbab (Saved everything)
